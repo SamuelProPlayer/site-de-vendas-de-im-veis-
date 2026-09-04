@@ -15,7 +15,7 @@ A SA Central de Vendas possui caráter exclusivamente informativo e de intermedi
 
 # 🎨 Prototipação
 
-Sites de vendas de imóveis existentes e imaginação.
+https://stitch.withgoogle.com/projects/9546844594609028199
 
 # 🎨 Design System
 
