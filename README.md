@@ -40,7 +40,8 @@ Node.js e NPM
 # 🌐 API Pública
 
 O projeto utilizará uma API pública para obtenção de dados dinâmicos em tempo real (ex: cotação de moedas ou previsão do tempo).
-API: A definir
+API: API REST / API RESTful e API ViaCEP: Esta API ajudará o cliente a encontrar mais rapidamente o endereço desejado, mantendo o usuário mais interessado no site, evitando a perda de tempo que ele teria digitando todo o endereço.
+No entanto, a outra API servirá como banco de dados para gerenciar imóveis e propostas.
 
 # 🚀 Link para o projeto em produção
 
