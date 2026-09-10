@@ -23,7 +23,7 @@ Documento: A definir
 
 # 🧩 Framework CSS
 
-Framework: Bootstrap
+Framework: Bootstrap 5
 
 # 📦 Tecnologias e Dependências
 
