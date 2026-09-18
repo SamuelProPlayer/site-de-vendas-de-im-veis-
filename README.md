@@ -19,7 +19,13 @@ https://stitch.withgoogle.com/projects/9546844594609028199
 
 # 🎨 Design System
 
-Documento: A definir
+Arquivo: scss/_variables.scss
+Implementação:
+Variáveis de cores: $primary-color, $secondary-color, $accent-color
+Mixins reutilizáveis: @mixin flex-center, @mixin grid-auto-fit, @mixin button-primary
+Funções SCSS para tipografia fluida
+Arquitetura modular com _variables.scss e _mixins.scss
+
 
 # 🧩 Framework CSS
 
@@ -52,14 +58,23 @@ Vercel: https://site-de-vendas-de-im-veis.vercel.app/
 RA1 — Utilizar Frameworks CSS para estilização de elementos HTML e criação de layouts responsivos
 
  ID 01 — Prototipa interfaces adaptáveis para mobile e desktop.
+ 
  ID 02 — Implementa layout responsivo com Framework CSS utilizando Flexbox ou Grid.
+ 
  ID 03 — Implementa layout responsivo com CSS puro utilizando Flexbox ou Grid Layout.
+ 
  ID 04 — Utiliza componentes prontos de um Framework CSS e componentes JavaScript do framework.
+ 
  ID 05 — Utiliza unidades relativas para criação de layouts fluidos.
+ 
  ID 06 — Aplica um Design System consistente.
+ 
  ID 07 — Utiliza Sass/SCSS com variáveis, mixins e funções.
+ 
  ID 08 — Aplica tipografia responsiva ou fluida.
+ 
  ID 09 — Utiliza técnicas de responsividade de imagens com CSS.
+ 
  ID 10 — Otimiza imagens utilizando formatos modernos e carregamento adaptativo.
 
 RA2 — Realizar tratamento de formulários e aplicar validações customizadas no lado cliente
