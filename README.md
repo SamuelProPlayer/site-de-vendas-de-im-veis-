@@ -80,27 +80,37 @@ RA1 — Utilizar Frameworks CSS para estilização de elementos HTML e criação
 RA2 — Realizar tratamento de formulários e aplicar validações customizadas no lado cliente
 
  ID 11 — Implementa validação HTML nativa.
+ 
  ID 12 — Utiliza expressões regulares (REGEX).
+ 
  ID 13 — Utiliza elementos de seleção em formulários.
+ 
  ID 14 — Utiliza Web Storage para persistência local.
 
 RA3 — Aplicar ferramentas para otimização do processo de desenvolvimento web
 
  ID 15 — Configura ambiente com Node.js e NPM.
+ 
  ID 16 — Utiliza boas práticas de versionamento com Git/GitHub.
+ 
  ID 17 — Mantém README.md padronizado.
+ 
  ID 18 — Organiza os arquivos de forma modular.
+ 
  ID 19 — Configura linters e formatadores.
 
 RA4 — Aplicar bibliotecas de funções e componentes em JavaScript
 
  ID 20 — Utiliza jQuery para manipulação do DOM e interatividade.
+ 
  ID 21 — Integra e configura um plugin jQuery relevante.
 
 RA5 — Efetuar requisições assíncronas para APIs
 
  ID 22 — Realiza requisições assíncronas para API fake para persistência.
+ 
  ID 23 — Realiza requisições assíncronas para API fake para exibição.
+ 
  ID 24 — Realiza requisições assíncronas para uma API pública real.
 
 # ▶️ Instruções de Execução
