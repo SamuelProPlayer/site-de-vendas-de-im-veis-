@@ -1,0 +1,27 @@
+{
+  "name": "site-de-vendas-de-im-veis-",
+  "version": "1.0.0",
+  "description": "Aluno: Samuel Binsfeld de Lara Projeto: SA Central de Vendas - Portal de Vendas de Imóveis Tema: Exibição, filtragem e agendamento de visitas em propriedades de alto padrão em condomínio fechado",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelProPlayer/site-de-vendas-de-im-veis-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SamuelProPlayer/site-de-vendas-de-im-veis-/issues"
+  },
+  "homepage": "https://github.com/SamuelProPlayer/site-de-vendas-de-im-veis-#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
