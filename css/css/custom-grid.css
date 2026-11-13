@@ -349,3 +349,49 @@
     grid-template-columns: 1fr;
   }
 }
+
+/* O filtro fica no fluxo normal: não cobre os imóveis durante a rolagem. */
+.filtro-section {
+  position: static !important;
+  top: auto !important;
+  z-index: auto !important;
+  padding: 1.5rem 1rem !important;
+  box-shadow: none !important;
+  scroll-margin-top: 1rem;
+}
+
+.filtro-container {
+  width: min(100%, 1200px);
+  padding: 0 !important;
+  gap: 1rem;
+}
+
+.filtro-btns {
+  gap: 0.75rem;
+  margin-top: 0.25rem;
+}
+
+.filtro-btns button {
+  min-height: 44px;
+}
+
+@media (max-width: 576px) {
+  .filtro-section {
+    padding: 1.25rem 1rem !important;
+  }
+
+  .filtro-container {
+    gap: 0.85rem;
+  }
+
+  .filtro-group input,
+  .filtro-group select {
+    min-height: 44px;
+    width: 100%;
+  }
+
+  .filtro-btns {
+    gap: 0.75rem;
+    margin-top: 0.25rem;
+  }
+}
