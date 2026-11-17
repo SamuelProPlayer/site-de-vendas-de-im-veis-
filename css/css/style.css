@@ -779,7 +779,7 @@ button {
   font-family: 'Noto Sans', sans-serif;
   font-size: 0.95rem;
   transition: var(--transition);
-  text-color: black
+  color: var(--text-dark)
 }
 
 .login-box .form-group input:focus {
