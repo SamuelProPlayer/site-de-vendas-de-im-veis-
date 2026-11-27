@@ -17,6 +17,10 @@ A SA Central de Vendas possui caráter exclusivamente informativo e de intermedi
 
 https://stitch.withgoogle.com/projects/9546844594609028199
 
+# 🚀 Link para o projeto em produção
+
+https://samuelproplayer.github.io/site-de-vendas-de-im-veis-/
+
 # 🎨 Design System
 
 Arquivo: scss/_variables.scss
@@ -94,9 +98,7 @@ O projeto utilizará uma API pública para obtenção de dados dinâmicos em tem
 API: API REST / API RESTful e API ViaCEP: Esta API ajudará o cliente a encontrar mais rapidamente o endereço desejado, mantendo o usuário mais interessado no site, evitando a perda de tempo que ele teria digitando todo o endereço.
 No entanto, a outra API servirá como banco de dados para gerenciar imóveis e propostas.
 
-# 🚀 Link para o projeto em produção
 
-Vercel: https://site-de-vendas-de-im-veis.vercel.app/
 
 # 📋 Checklist de Funcionalidades
 
