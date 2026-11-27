@@ -39,6 +39,38 @@ $border-color: #e0e0e0;         // Borda padrão
 
 ---
 
+## 🏗️ Arquitetura do Projeto
+
+### Estrutura de Arquivos
+
+```
+sa-central-vendas/
+├── index.html                 # Página principal (HOME)
+├── login.html                 # Login do corretor
+├── cadastro-imovel.html       # Cadastro de novos imóveis
+├── package.json               # Dependências e scripts
+├── db.json                    # Banco de dados fake (json-server)
+├── .gitignore                 # Git ignore
+├── .eslintrc.json             # ESLint config
+├── .prettierrc                # Prettier config
+│
+├── css/
+│   ├── custom-grid.css        # CSS puro (Grid/Flexbox)
+│   └── style.css              # Compilado do SCSS
+│
+├── scss/
+│   ├── _variables.scss        # Variáveis de design system
+│   ├── _mixins.scss           # Mixins reutilizáveis
+│   └── style.scss             # SCSS principal
+│
+└── js/
+    ├── modules/
+    │   ├── validacao.js       # Validações REGEX
+    │   └── api.js             # Requisições async
+    └── main.js                # Script principal
+```
+
+---
 
 # 🧩 Framework CSS
 
